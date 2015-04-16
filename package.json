@@ -1,0 +1,29 @@
+{
+  "name": "zoo-postpackager-simple",
+  "version": "0.0.1",
+  "description": "a postpackager plugin for fis to auto replace pack resource and auto combine resources",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skyRen/zoo-postpackager-simple"
+  },
+  "keywords": [
+    "fis",
+    "postpackager",
+    "package",
+    "simple"
+  ],
+  "author": {
+    "name": "rsk"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "stable": "0.1.5"
+  },
+  "maintainers": [
+    {
+      "name": "rsk",
+      "email": "rsk_rsk@163.com"
+    }
+  ]
+}
